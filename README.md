@@ -32,7 +32,7 @@ After you perform your analysis, you will share your findings.
 
 ## Conclusion
 
-As a Computer Scientist specializing in Artificial Intelligence and Computer Science, this project offered a comprehensive demonstration of my data handling, analysis, and visualisation skills using Python and Pandas. The process involved several key steps, each contributing to a meaningful analysis of the social media data.
+As a software engineer specializing in Artificial Intelligence and Computer Science, this project offered a comprehensive demonstration of my data handling, analysis, and visualisation skills using Python and Pandas. The process involved several key steps, each contributing to a meaningful analysis of the social media data.
 
 The initial phase encompassed data generation, wherein I created a dataset simulating social media engagement with diverse categories like Food, Travel, Fashion, Fitness, Music, Culture, Family, and Health. This was achieved through Pandas' DataFrame functionalities, random data generation using NumPy and Python's random module.
 
